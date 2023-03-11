@@ -1,1 +1,1 @@
-# Omni-Platform-Fighting-Game
+# PlayStation All-Stars Battle Royale
